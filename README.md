@@ -59,11 +59,20 @@ It is written for three audiences:
 | 24 | [Communication Plan](docs/part-c-execution/24-communication-plan.md) |
 | 25 | [Training Plan](docs/part-c-execution/25-training-plan.md) |
 
-### Part D: Risk, Compliance, Governance ⏳ *(next)*
+### Part D: Risk, Compliance, Governance ✅
 
-26 Risk Register · 27 Risk Mitigation · 28 Compliance · 29 License Requirements · 30 Budget Categories · 31 Governance Model · 32 Operational Support Model · 33 Post-Migration Optimization
+| # | Section |
+|---|---|
+| 26 | [Risk Register](docs/part-d-risk-governance/26-risk-register.md) (40 risks, heat map) |
+| 27 | [Risk Mitigation Strategy](docs/part-d-risk-governance/27-risk-mitigation-strategy.md) (appetite, KRIs, plans for the top risks) |
+| 28 | [Compliance Considerations](docs/part-d-risk-governance/28-compliance-considerations.md) (HIPAA safeguard mapping, HITRUST, PCI, Part 11) |
+| 29 | [License Requirements](docs/part-d-risk-governance/29-license-requirements.md) (E3 vs. E5 vs. F3 capability matrix) |
+| 30 | [Budget Categories](docs/part-d-risk-governance/30-budget-categories.md) |
+| 31 | [Governance Model](docs/part-d-risk-governance/31-governance-model.md) (forums, decision rights, decision log D-01 to D-14) |
+| 32 | [Operational Support Model](docs/part-d-risk-governance/32-operational-support-model.md) |
+| 33 | [Post-Migration Optimization](docs/part-d-risk-governance/33-post-migration-optimization.md) |
 
-### Risk Analysis ⏳ · Endpoint Desktop Engineer Role ⏳ · Appendices A–L ⏳
+### Risk Analysis ⏳ *(next)* · Endpoint Desktop Engineer Role ⏳ · Appendices A–L ⏳
 
 ---
 
