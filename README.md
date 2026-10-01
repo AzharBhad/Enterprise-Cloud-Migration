@@ -47,11 +47,19 @@ It is written for three audiences:
 | 17 | [Autopilot Deployment Strategy](docs/part-b-workstreams/17-autopilot-deployment-strategy.md) |
 | 18 | [Co-Management Workload Transition Plan](docs/part-b-workstreams/18-co-management-workload-transition.md) |
 
-### Part C: Execution ⏳ *(next)*
+### Part C: Execution ✅
 
-19 Pilot Deployment · 20 Production Rollout · 21 Testing & Validation · 22 Rollback & DR · 23 Change Management · 24 Communication · 25 Training
+| # | Section |
+|---|---|
+| 19 | [Pilot Deployment Plan](docs/part-c-execution/19-pilot-deployment-plan.md) (IT, business, and clinical pilots with exit criteria) |
+| 20 | [Production Rollout Plan](docs/part-c-execution/20-production-rollout-plan.md) (rings vs. waves, wave plan, go/no-go, hypercare) |
+| 21 | [Testing and Validation Framework](docs/part-c-execution/21-testing-and-validation-framework.md) (24 end-to-end scenarios) |
+| 22 | [Rollback and Disaster Recovery Strategy](docs/part-c-execution/22-rollback-and-disaster-recovery.md) (rollback catalog, one-way doors) |
+| 23 | [Change Management Plan](docs/part-c-execution/23-change-management-plan.md) |
+| 24 | [Communication Plan](docs/part-c-execution/24-communication-plan.md) |
+| 25 | [Training Plan](docs/part-c-execution/25-training-plan.md) |
 
-### Part D: Risk, Compliance, Governance ⏳
+### Part D: Risk, Compliance, Governance ⏳ *(next)*
 
 26 Risk Register · 27 Risk Mitigation · 28 Compliance · 29 License Requirements · 30 Budget Categories · 31 Governance Model · 32 Operational Support Model · 33 Post-Migration Optimization
 
