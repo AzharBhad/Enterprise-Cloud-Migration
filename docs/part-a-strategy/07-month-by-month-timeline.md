@@ -104,7 +104,7 @@
 |---|---|---|
 | Endpoint | **Business pilot (600 users)** in Finance, HR, Revenue Cycle (remote coders), Marketing; include macOS (50) and Android Enterprise (100) | EP |
 | Endpoint | ⭐ **D-02 effective: all new Windows devices ship Entra joined** through OEM-registered Autopilot | EP |
-| Endpoint | Co-mgmt workloads: **Resource access** → Intune (Wi-Fi/VPN/cert profiles), **Device configuration** → Intune (pilot collection) | EP |
+| Endpoint | Intune Wi-Fi/VPN/certificate profiles to co-managed devices (the Resource access workload is already mandated to Intune from ConfigMgr 2403); **Device configuration** → Intune (pilot collection; this also moves Endpoint Protection) | EP |
 | Endpoint | Win10 → Win11 in-place upgrades for remaining capable devices through Intune **feature update policy** | EP |
 | Network | ⭐ DirectAccess retired (devices moved to VPN / Private Access pilot) | Network |
 | Security | Entra Private Access pilot with IT + business pilot; Quick Access for file servers | SE + Network |
@@ -131,7 +131,7 @@
 |---|---|---|
 | Endpoint | ⭐ **Wave 1** (Corporate/admin campuses, ~1,500 devices) | EP |
 | Endpoint | Android device administrator → Android Enterprise migration (300 devices) | EP |
-| Endpoint | Autopatch onboarding all co-managed devices with WU workload switched | EP |
+| Endpoint | Autopatch onboarding for rings whose Windows Update, Device configuration, and Office C2R workloads are on Intune (others get WUfB rings from Intune directly) | EP |
 | Identity | Staged Rollout 100 %; RPT migrations continue | ID |
 | Data | KFM all knowledge workers begins (silent, staged by group) | Data |
 | Security | ASR rules → **block** (with exclusions from audit data) for migrated waves | SE |

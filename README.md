@@ -32,11 +32,22 @@ It is written for three audiences:
 | 7 | [Detailed Month-by-Month Timeline](docs/part-a-strategy/07-month-by-month-timeline.md) |
 | 8 | [Infrastructure Prerequisites](docs/part-a-strategy/08-infrastructure-prerequisites.md) |
 
-### Part B: Workstream Plans ⏳ *(next)*
+### Part B: Workstream Plans ✅
 
-9 Identity Modernization · 10 Endpoint Management Transformation · 11 Application Migration · 12 User Data Migration · 13 Security Transformation · 14 GPO-to-Intune Policy Migration · 15 AD Dependency Assessment · 16 Certificate Migration · 17 Autopilot Deployment · 18 Co-Management Workload Transition
+| # | Section |
+|---|---|
+| 9 | [Identity Modernization Plan](docs/part-b-workstreams/09-identity-modernization-plan.md) (defederation, WHfB cloud Kerberos trust, Connect Sync vs. Cloud Sync) |
+| 10 | [Endpoint Management Transformation Plan](docs/part-b-workstreams/10-endpoint-management-transformation-plan.md) (all platforms, VDI and macOS decisions, Autopatch) |
+| 11 | [Application Migration Strategy](docs/part-b-workstreams/11-application-migration-strategy.md) (Retain / Rebuild / Replace / Retire) |
+| 12 | [User Data Migration Strategy](docs/part-b-workstreams/12-user-data-migration-strategy.md) (KFM, SharePoint vs. Azure Files vs. on-prem, Universal Print) |
+| 13 | [Security Transformation Plan](docs/part-b-workstreams/13-security-transformation-plan.md) (full Conditional Access set, MDE, ASR, LAPS/EPM, PIM, Sentinel) |
+| 14 | [GPO-to-Intune Policy Migration](docs/part-b-workstreams/14-gpo-to-intune-policy-migration.md) (Group Policy Analytics) |
+| 15 | [Active Directory Dependency Assessment](docs/part-b-workstreams/15-ad-dependency-assessment.md) |
+| 16 | [Certificate Migration Strategy](docs/part-b-workstreams/16-certificate-migration-strategy.md) (SCEP vs. PKCS vs. Cloud PKI) |
+| 17 | [Autopilot Deployment Strategy](docs/part-b-workstreams/17-autopilot-deployment-strategy.md) |
+| 18 | [Co-Management Workload Transition Plan](docs/part-b-workstreams/18-co-management-workload-transition.md) |
 
-### Part C: Execution ⏳
+### Part C: Execution ⏳ *(next)*
 
 19 Pilot Deployment · 20 Production Rollout · 21 Testing & Validation · 22 Rollback & DR · 23 Change Management · 24 Communication · 25 Training
 
