@@ -8,7 +8,7 @@ It is written for three audiences:
 
 | Audience | Start here |
 |---|---|
-| **Executive leadership / Steering Committee** | [1. Executive Summary](docs/part-a-strategy/01-executive-summary.md) → [6. Phased Roadmap](docs/part-a-strategy/06-phased-roadmap.md) → Part D (Risk, Licensing, Budget, Governance) |
+| **Executive leadership / Steering Committee** | [Leadership Summary](docs/leadership-summary.md) (one page) → [1. Executive Summary](docs/part-a-strategy/01-executive-summary.md) → [6. Phased Roadmap](docs/part-a-strategy/06-phased-roadmap.md) → Part D (Risk, Licensing, Budget, Governance) |
 | **Program team / workstream leads** | [00. Assumptions & Conventions](docs/00-assumptions-and-conventions.md) → Part A → Part B (your workstream) → Part C |
 | **Endpoint Desktop Engineer** | [00. Assumptions](docs/00-assumptions-and-conventions.md) → §10, §14, §17, §18 → "My Role" section → Appendices |
 
