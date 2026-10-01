@@ -72,7 +72,16 @@ It is written for three audiences:
 | 32 | [Operational Support Model](docs/part-d-risk-governance/32-operational-support-model.md) |
 | 33 | [Post-Migration Optimization](docs/part-d-risk-governance/33-post-migration-optimization.md) |
 
-### Risk Analysis ⏳ *(next)* · Endpoint Desktop Engineer Role ⏳ · Appendices A–L ⏳
+### Risk Analysis ✅
+
+| Part | Section |
+|---|---|
+| — | [Risk Analysis index & top 10](docs/risk-analysis/README.md) |
+| 1 | [Commonly forgotten items & hidden dependencies](docs/risk-analysis/01-forgotten-items-and-hidden-dependencies.md) |
+| 2 | [Legacy blockers, security, continuity, user experience](docs/risk-analysis/02-legacy-security-continuity-ux.md) |
+| 3 | [Regulatory, third-party, technical debt, downtime scenarios](docs/risk-analysis/03-compliance-thirdparty-techdebt-downtime.md) |
+
+### Endpoint Desktop Engineer Role ⏳ *(next)* · Appendices A–L ⏳
 
 ---
 
