@@ -81,7 +81,16 @@ It is written for three audiences:
 | 2 | [Legacy blockers, security, continuity, user experience](docs/risk-analysis/02-legacy-security-continuity-ux.md) |
 | 3 | [Regulatory, third-party, technical debt, downtime scenarios](docs/risk-analysis/03-compliance-thirdparty-techdebt-downtime.md) |
 
-### Endpoint Desktop Engineer Role ⏳ *(next)* · Appendices A–L ⏳
+### Endpoint Desktop Engineer Role ✅
+
+| Part | Section |
+|---|---|
+| — | [Role overview & top five priorities](docs/endpoint-engineer-role/README.md) |
+| 1 | [Responsibilities before, during, after migration](docs/endpoint-engineer-role/01-responsibilities.md) |
+| 2 | [Skills, tools, reports & dashboards (with KQL/Graph samples), KPIs](docs/endpoint-engineer-role/02-skills-tools-reports-kpis.md) |
+| 3 | [Common mistakes, career growth & certifications, daily/weekly/monthly task lists](docs/endpoint-engineer-role/03-mistakes-career-and-task-lists.md) |
+
+### Appendices A–L ⏳ *(next)*
 
 ---
 
