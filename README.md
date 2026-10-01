@@ -18,6 +18,8 @@ It is written for three audiences:
 
 ## Blueprint contents and status
 
+> **Status: complete (v1.0).** All 33 sections, the Risk Analysis, the Endpoint Desktop Engineer role section, and Appendices A–L are written. All Mermaid diagrams are validated to render.
+
 ### Part A: Strategy ✅
 
 | # | Section |
@@ -90,7 +92,22 @@ It is written for three audiences:
 | 2 | [Skills, tools, reports & dashboards (with KQL/Graph samples), KPIs](docs/endpoint-engineer-role/02-skills-tools-reports-kpis.md) |
 | 3 | [Common mistakes, career growth & certifications, daily/weekly/monthly task lists](docs/endpoint-engineer-role/03-mistakes-career-and-task-lists.md) |
 
-### Appendices A–L ⏳ *(next)*
+### Appendices A–L ✅
+
+| App. | Title |
+|---|---|
+| [A](docs/appendices/A-detailed-migration-checklist.md) | Detailed migration checklist |
+| [B](docs/appendices/B-readiness-assessment-checklist.md) | Readiness assessment checklist (0–5 scoring model, 14 domains) |
+| [C](docs/appendices/C-go-live-checklist.md) | Go-Live checklist |
+| [D](docs/appendices/D-post-go-live-checklist.md) | Post-Go-Live checklist |
+| [E](docs/appendices/E-executive-steering-dashboard.md) | Executive Steering Committee dashboard (layout + metrics) |
+| [F](docs/appendices/F-technical-project-dashboard.md) | Technical Project Dashboard (layout + 30 metrics) |
+| [G](docs/appendices/G-sample-raid-log.md) | Sample RAID log |
+| [H](docs/appendices/H-microsoft-best-practices.md) | Recommended Microsoft best practices (50) |
+| [I](docs/appendices/I-cloud-native-architecture-design.md) | Recommended cloud-native architecture design (reference diagram, ADRs, NFRs) |
+| [J](docs/appendices/J-governance-structure.md) | Recommended governance structure (org chart, calendar, master RACI) |
+| [K](docs/appendices/K-estimated-effort-by-workstream.md) | Estimated effort by workstream (≈ 3,100 person-weeks) |
+| [L](docs/appendices/L-critical-success-factors.md) | Critical Success Factors (18) |
 
 ---
 
